@@ -1,3 +1,3 @@
-sim/*.raw
-sim/*.log
-sim/*.net
+*.raw
+*.log
+*.net
